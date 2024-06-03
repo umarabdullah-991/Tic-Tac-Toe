@@ -25,3 +25,44 @@ body{
     gap: 1.5vmin;
 
 }
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border: none; 
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+    font-size: 8vmin;
+    color: #b0413e
+    
+}
+#reset-btn{
+    padding: 1rem;
+    font-size: 1.35rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 36px;
+    border: none;
+}
+#new-btn{
+    padding: 1rem;
+    font-size: 1.35rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 36px;
+    border: none;
+}
+#msg{
+    color: #b0413e;
+    font-size: 5vmin;
+}
+.msgcontainer{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+.hide{
+    display: none;
+}
