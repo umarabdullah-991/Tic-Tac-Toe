@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This repository contains the code for a simple Tic Tac Toe game implemented in HTML, CSS, and JavaScript. The game allows two players to play Tic Tac Toe in a web browser, with functionality to start a new game and reset the current game. 
+This repository contains the code for a simple [Tic Tac Toe](https://tic-tac-toe-ga.netlify.app/) game implemented in HTML, CSS, and JavaScript. The game allows two players to play Tic Tac Toe in a web browser, with functionality to start a new game and reset the current game. 
 
 ## Table of Contents
 
@@ -98,5 +98,8 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+
+**Contact Us:**
+If you have any questions or inquiries, you can reach out to us via email at [umarabdullah.work@gmail.com](mailto:umarabdullah.work@gmail.com).
 
 Enjoy playing Tic Tac Toe! If you have any questions or feedback, feel free to reach out.
