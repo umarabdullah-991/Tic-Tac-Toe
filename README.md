@@ -15,7 +15,7 @@ This repository contains the code for a simple [Tic Tac Toe](https://tic-tac-toe
 
 ## Demo
 
-You can try out the game [here](#).
+You can try out the game [here](https://tic-tac-toe-ga.netlify.app/).
 
 ## Features
 
